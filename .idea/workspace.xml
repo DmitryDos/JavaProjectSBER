@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510723e2-626a-48d9-b7e8-984888fc94f6" name="Changes" comment="Create Classes: table, chair, furniture">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FurnitureInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
-    </list>
+    <list default="true" id="510723e2-626a-48d9-b7e8-984888fc94f6" name="Changes" comment="Clear SBERJavaProject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695029411490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Clear SBERJavaProject">
+      <created>1696241911725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696241911725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Classes: table, chair, furniture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Classes: table, chair, furniture" />
+    <MESSAGE value="Clear SBERJavaProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clear SBERJavaProject" />
   </component>
 </project>
