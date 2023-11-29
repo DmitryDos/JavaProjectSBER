@@ -10,8 +10,8 @@ public class Main {
 
     Decoder decoder = new Decoder();
 
-    String fileInputUrl = "Streams/src/main/resources/" + args[0];
-    String fileOutputUrl = "Streams/src/main/resources/" + args[1];
+    String fileInputUrl = args[0];
+    String fileOutputUrl = args[1];
     int key = Integer.parseInt(args[2]);
 
     if (decoder.checkUrl(fileInputUrl)) {
